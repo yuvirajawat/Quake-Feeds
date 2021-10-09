@@ -6,6 +6,8 @@ UI Design, JSON parsing, HTTP networking, Threads & Parallelism, Preferences, RE
 
 * Prevented memory leak in AsyncTask executables using loaders and cached fetching.
 
+Requirements
+
 * Min SDK Version API 21
 
 * Target SDK 31
